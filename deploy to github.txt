@@ -6,5 +6,15 @@ cicd-lab
 2. copy the git url https://github.com/Nhu-Natalie/cicd-lab.git
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 + choose git icon on the left VSCode
-+ Click + on Changes
++ Click + on Changes >> to Staged Changes
++ Type text describe the updated + choose Commit
+
+3. Add the remote
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Ctrl + shift + P: type remote >> choose Git: Add Remote 
++ Paste the link: https://github.com/Nhu-Natalie/cicd-lab.git >> ENTER
+
+4. Origin for the name: type origin
+
+5. Publish branch
 
