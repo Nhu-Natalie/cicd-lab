@@ -1,0 +1,9 @@
+1. CMD + Spacebar >> Terminal
+2. git clone https://github.com/bradtraversy/cicd-lab-starter.git
+3. Open Finder >> CMD + SHIFT + H >> see all files on Quynhnhu
+4. rm -rf .git >> Remove the current git repository
+5. git init -b main >> create a new repo on main branch
+6. code .
+
+npm ci
+npm run dev

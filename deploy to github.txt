@@ -1,0 +1,10 @@
+natalie.bui@patroids.com
+1. new repository
++++++++++++++++++
+cicd-lab
+
+2. copy the git url https://github.com/Nhu-Natalie/cicd-lab.git
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ choose git icon on the left VSCode
++ Click + on Changes
+
